@@ -1,0 +1,21 @@
+### OSX ###
+.DS_Store
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+### IDE files ###
+.idea
+*.iml
+
+### Node ###
+node_modules/
+bower_components/
+/dist
+*.scssc
+
+### Build Files ###
+application.css
+libs.css
